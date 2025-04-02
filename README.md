@@ -1,4 +1,4 @@
-# Online-Marketplace
+# Scalable Microservices Based Product Marketplace
 ### A microservice based online marketplace with additional fault tolerance & observability resembling the implementation of a large scale ecommerce website.
 - [Project Architecture](#project-architecture)
 - [Implementation Details](#implementation-details)
